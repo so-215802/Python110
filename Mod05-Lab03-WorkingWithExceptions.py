@@ -20,7 +20,7 @@
 # Define the Data Constants
 import json
 
-FILE_NAME: str = "MyLabData.jsonZZZ"
+FILE_NAME: str = "MyLabData.json"
 
 # Defne the program's data
 MENU: str = '''
